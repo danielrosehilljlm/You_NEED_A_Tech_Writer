@@ -2,9 +2,13 @@
 
 I maintain these small Github repositories primarily to contain some personal projects (mostly to do with backups, data protection, and Linux).
 
-However, seeing as I serve mostly technology clients — and they tend to sometimes peruse Github — I thought I'd be a bit creative and plug my writing services here. Desperate times and all that.
+However, seeing as I serve mostly technology clients — and they tend to sometimes peruse Github — I thought I'd be a bit creative and plug my writing services here. 
+
+Desperate times and all that*
 
 So, without further introductions:
+
+(*Offbeat humor. Sort of). 
 
 <hr>
 
@@ -35,7 +39,7 @@ And here's what I don't do:
 
 I am a technical **marketing** writer. 
 
-It's kind of my own terminology — although I've seen others use it and it's usually self-explanatory enough that that's all I have to say. 
+It's kind of my own terminology — although I've seen others use it. And it's usually self-explanatory enough that that's all I have to say. 
 
 But in case it needs elaborating, I:
 
@@ -43,7 +47,8 @@ But in case it needs elaborating, I:
 
 I do not:
 
-❌ Engage in API writing, documentatation, and other projects that are better left to those who left cereberal hemisphere is dominant. 
+❌ Engage in API writing, documentation, and other projects that are better left to those who left cerebral hemisphere is dominant. 
+
 
 <hr>
 
@@ -71,7 +76,7 @@ But I also have written about:
 
 - IoT <br/>
 - AR and ML <br/>
-- Innovation magagement <br/>
+- Innovation management <br/>
 - Cybersecurity <br/>
 - B2C products including antiviruses, VPNs, and ERPs (usually in the guise of writing reviews
 
