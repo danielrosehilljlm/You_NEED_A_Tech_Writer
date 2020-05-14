@@ -121,7 +121,7 @@ And hey, if you're paranoid too then you'll also get to benefit from my weird ob
 
 Money can be an awkward and sensitive subject. 
 
-So although only truthful answer is: "it depends on the spec" (if you want to know why writers always give that annoying response [see here](https://medium.com/dsr-ghostwriting/freelance-writing-pricing-per-word-per-hour-or-per-project-and-how-much-of-each-d7c418a573a?source=---------2------------------) in the hope of saving both parties from engaging in unnecessary conversations I provide some ballpark guidance on my website
+So although only truthful answer is: "it depends on the spec" (if you want to know why writers always give that annoying response [see here](https://medium.com/dsr-ghostwriting/freelance-writing-pricing-per-word-per-hour-or-per-project-and-how-much-of-each-d7c418a573a?source=---------2------------------)) in the hope of saving both parties from engaging in unnecessary conversations I provide some ballpark guidance on my website
 
 **My rates are, roughly mid-tier.** 
 
