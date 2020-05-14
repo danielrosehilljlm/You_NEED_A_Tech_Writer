@@ -25,7 +25,7 @@ Some examples include:
 Less commonly I write:
 
 ✅ Speeches <br/>
-✅ Ebooks
+✅ Books. The kind you hold in your hand. 
 
 And here's what I don't do:
 
